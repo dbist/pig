@@ -3,5 +3,5 @@
 #### Execute the script
 
 ```
-pig -x tez_local python_udf_example.pig
+pig -x tez_local example.pig
 ```
