@@ -1,3 +1,9 @@
+## Convert all text to Upper using Python UDF
+```
+pig -x tez_local toupper.pig
+```
+
+
 ## Processing HTML in Python UDF
 ##### install beautiful soup
 ```
