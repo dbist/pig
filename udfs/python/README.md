@@ -16,7 +16,7 @@ pig -x tez_local formathtml.pig
 ```
 ##### to process an html file in hdfs
 ```
-hdfs dfs -put file.html hdfsdir
+hdfs dfs -put file.html /user/username
 ```
 ```
 pig -x tez formathtml.pig
